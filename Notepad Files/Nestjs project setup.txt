@@ -1,0 +1,40 @@
+
+✅ Create a New Nestjs Project
+
+1)nest new project-name
+2)cd project-name
+3)npm run start:dev
+
+
+✅ Create a Module
+4)nest g module users
+
+✅ Create a Controller in users
+5)nest g controller users
+
+✅ Create a Service in Users
+6)nest g service users
+
+
+
+⭐ Install Sequelize
+npm install @nestjs/sequelize sequelize mysql2
+
+⭐ Install Validation
+npm install class-validator class-transformer
+
+
+⭐ Install JWT Auth
+npm install @nestjs/jwt passport passport-jwt @nestjs/passport
+
+
+
+⭐ Summary
+
+Create project	        nest new project-name
+Start server	        npm run start:dev
+Generate module	        nest g module users
+Generate controller	nest g controller users
+Generate service	nest g service users
+
+

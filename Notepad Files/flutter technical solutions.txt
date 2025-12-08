@@ -1,0 +1,8 @@
+// google signup / google signin
+for this service we have to get the SHA-1 and SHA-256 tokens from the project. follow the below link
+https://www.geeksforgeeks.org/how-to-generate-sha-1-key-in-flutter/
+
+
+// app icon change 
+use app icon generator, this will give all sizes of the icon, 
+then replace the andriod/src/main/res folders with given zip folders 

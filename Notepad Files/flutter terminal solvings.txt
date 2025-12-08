@@ -1,0 +1,5 @@
+* Error: No 'main' method found.
+Try adding a method named 'main' to your program.
+Target kernel_snapshot failed: Exception
+
+run : flutter build apk -t lib/main.dart
