@@ -30,3 +30,6 @@ npm install @nestjs/jwt @nestjs/passport passport passport-jwt
 npm install bcrypt
 npm install -D @types/bcrypt @types/passport-jwt
 
+
+REDIS setup
+https://www.youtube.com/watch?v=DLKzd3bvgt8&sttick=0
